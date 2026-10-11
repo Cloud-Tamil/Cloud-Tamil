@@ -4,6 +4,12 @@
 
 <br/>
 
+<a href="https://github.com/Cloud-Tamil">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+Google+Cloud;Kubernetes+%7C+Docker+%7C+Terraform;CI%2FCD+Automation+%7C+Observability" alt="Animated introduction" />
+</a>
+
+<br/>
+
 <a href="https://github.com/Cloud-Tamil"><img src="https://img.shields.io/badge/GitHub-Cloud--Tamil-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/tamil8413/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-0891b2?style=flat-square" alt="Cloud and DevOps"/>
@@ -120,6 +126,16 @@ I enjoy building repeatable infrastructure and reliable delivery workflows with 
 </div>
 
 <sub>Activity cards are provided by third-party services and may occasionally be unavailable or rate-limited.</sub>
+
+## Contribution animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Cloud-Tamil/Cloud-Tamil/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
+
+</div>
+
+<sub>The contribution animation appears after the GitHub Actions workflow runs successfully and publishes its generated SVG.</sub>
 
 ---
 
