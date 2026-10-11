@@ -131,7 +131,11 @@ I enjoy building repeatable infrastructure and reliable delivery workflows with 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Cloud-Tamil/Cloud-Tamil/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cloud-Tamil/Cloud-Tamil/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cloud-Tamil/Cloud-Tamil/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Cloud-Tamil/Cloud-Tamil/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
+</picture>
 
 </div>
 
