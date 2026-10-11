@@ -1,141 +1,125 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Tamilselvan — Cloud and DevOps Engineer" width="100%"/>
+<img src="assets/profile-banner.svg" alt="Tamilselvan | Cloud and DevOps Engineer" width="100%" />
 
-### TAMILSELVAN
-**Cloud & DevOps Engineer · Cloud Platforms · Kubernetes · Automation**
+<br/>
 
-Building repeatable infrastructure, reliable delivery pipelines, and observable cloud-native systems.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Cloud--Tamil-0b1220?style=for-the-badge&logo=github)](https://github.com/Cloud-Tamil)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tamil8413/)
-[![Location](https://img.shields.io/badge/Chennai-India-0e7490?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/Cloud-Tamil)
+<a href="https://github.com/Cloud-Tamil"><img src="https://img.shields.io/badge/GitHub-Cloud--Tamil-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/tamil8413/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-0891b2?style=flat-square" alt="Cloud and DevOps"/>
+<img src="https://img.shields.io/badge/Location-Chennai%2C%20India-475569?style=flat-square" alt="Chennai, India"/>
 
 </div>
 
 ---
 
-## About
+## About me
 
-Cloud & DevOps Engineer with **4+ years of experience** designing, automating, deploying, and supporting cloud infrastructure across **AWS, Microsoft Azure, and Google Cloud**, including banking and e-commerce environments.
+I'm **Tamilselvan**, a Cloud & DevOps Engineer with **4+ years of experience** working across AWS, Microsoft Azure, and Google Cloud in banking and e-commerce environments.
 
-I focus on the engineering behind dependable releases: Infrastructure as Code, container platforms, CI/CD, cloud operations, and observability. My repositories combine practical projects with implementation notes and learning resources.
+I enjoy building repeatable infrastructure and reliable delivery workflows with Infrastructure as Code, containers, Kubernetes, CI/CD automation, and observability. This profile brings together my hands-on projects, technical notes, and learning resources.
 
-- **Cloud:** AWS · Azure · Google Cloud
-- **Platform:** Docker · Kubernetes · Helm
-- **Automation:** Terraform · Jenkins · GitHub Actions · Bash
-- **Observability:** Prometheus · Grafana
-- **Development:** Linux · Git · Node.js · Python
+- ☁️ **Cloud:** AWS · Azure · Google Cloud
+- ⚙️ **Platform & delivery:** Docker · Kubernetes · Helm · CI/CD
+- 🏗️ **Infrastructure as Code:** Terraform
+- 📊 **Observability:** Prometheus · Grafana
+- 💻 **Tools & scripting:** Linux · Git · Bash · Node.js · Python
 
-## Technology Map
+## Technology stack
 
 <div align="center">
 
-| CLOUD | PLATFORM & DELIVERY | AUTOMATION | OBSERVABILITY |
-|:---:|:---:|:---:|:---:|
-| AWS · Azure · GCP | Docker · Kubernetes · Helm | Terraform · Jenkins · GitHub Actions | Prometheus · Grafana |
+**Cloud platforms**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="AWS, Azure, Google Cloud" />
 
-[![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp&perline=3)](https://skillicons.dev)
-<br/>
-[![Platform](https://skillicons.dev/icons?i=docker,kubernetes,helm&perline=3)](https://skillicons.dev)
-<br/>
-[![Automation](https://skillicons.dev/icons?i=terraform,jenkins,githubactions,git,bash,linux&perline=6)](https://skillicons.dev)
-<br/>
-[![Code and monitoring](https://skillicons.dev/icons?i=prometheus,grafana,nodejs,python&perline=4)](https://skillicons.dev)
+**Containers and infrastructure**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,terraform" alt="Docker, Kubernetes, Helm, Terraform" />
+
+**Automation and operations**
+
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,linux,bash" alt="Jenkins, GitHub Actions, Git, Linux, Bash" />
+
+**Monitoring and development**
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,nodejs,python" alt="Prometheus, Grafana, Node.js, Python" />
 
 </div>
 
 ---
 
-## Featured Work
+## Featured projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 ShopSphere — Microservices
-Explore an e-commerce application and its cloud-native delivery path, from microservices to Kubernetes deployment.
-
-**Repositories**
-
-- [ShopSphere Microservices](https://github.com/Cloud-Tamil/ShopSphere---Microservices-Application)
-- [ShopSphere Helm Deployment](https://github.com/Cloud-Tamil/shopsphere-helm-project)
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 Fusion — Observability
-Explore service health, metrics, dashboards, alerting concepts, and operational visibility for microservices.
-
-**Repository**
-
-- [Fusion Microservices Observability Platform](https://github.com/Cloud-Tamil/Fusion-Microservices-Observability-Platform)
-- [Observability Project](https://github.com/Cloud-Tamil/Observability-Project)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ CI/CD Automation
-Hands-on workflow examples and exercises for repository automation and delivery pipelines.
-
-**Repository**
-
-- [GitHub Actions Learning Project](https://github.com/Cloud-Tamil/GitHub-Actions-Learning-Project)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏗️ Infrastructure as Code
-Terraform learning and provisioning examples for building repeatable, reviewable infrastructure changes.
-
-**Repositories**
-
-- [Terraform Learning Page](https://github.com/Cloud-Tamil/Terraform-Learning-Page)
-- [Terraform Deploy Resources](https://github.com/Cloud-Tamil/Terraform-Deploy-Resources)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛍️ ShopSphere · Microservices</h3>
+      <p>A practical e-commerce project for exploring microservices, containerization, Kubernetes deployment, and application delivery.</p>
+      <a href="https://github.com/Cloud-Tamil/ShopSphere---Microservices-Application">Microservices application →</a><br/>
+      <a href="https://github.com/Cloud-Tamil/shopsphere-helm-project">Helm deployment →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 Fusion · Observability</h3>
+      <p>An operations-focused project exploring service visibility, metrics, dashboards, and observability practices.</p>
+      <a href="https://github.com/Cloud-Tamil/Fusion-Microservices-Observability-Platform">Fusion Observability Platform →</a><br/>
+      <a href="https://github.com/Cloud-Tamil/Observability-Project">Observability Project →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔁 GitHub Actions · CI/CD</h3>
+      <p>Hands-on workflow examples and exercises for repository automation and continuous integration and delivery.</p>
+      <a href="https://github.com/Cloud-Tamil/GitHub-Actions-Learning-Project">Explore CI/CD project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏗️ Terraform · Infrastructure as Code</h3>
+      <p>Learning and provisioning resources focused on repeatable infrastructure definitions and change management.</p>
+      <a href="https://github.com/Cloud-Tamil/Terraform-Learning-Page">Terraform learning →</a><br/>
+      <a href="https://github.com/Cloud-Tamil/Terraform-Deploy-Resources">Terraform resources →</a>
+    </td>
+  </tr>
 </table>
 
-> Project scope and implementation status can vary by repository. Check each project README for prerequisites, architecture, setup instructions, and current capabilities.
+<sub>Project scope and implementation status may vary. Check each repository's README for current features, prerequisites, and setup instructions.</sub>
 
-## Knowledge Base
+## Learning resources
 
-| Area | Resource |
+| Topic | Repository |
 |---|---|
 | AWS | [AWS Cloud Learning Path](https://github.com/Cloud-Tamil/AWS-Cloud-Learning-path) |
 | Google Cloud | [GCP Cloud Learning Path](https://github.com/Cloud-Tamil/GCP-Cloud-Learning-path) |
-| DevOps | [DevOps Learning Page](https://github.com/Cloud-Tamil/DevOps-Learning-Page) |
 | Kubernetes | [Traditional Kubernetes Installation Guide](https://github.com/Cloud-Tamil/Kubernetes_Installation_For_Traditional_Method) |
 | Terraform | [Terraform Learning Page](https://github.com/Cloud-Tamil/Terraform-Learning-Page) |
-| Developer setup | [GitHub & VS Code Complete Setup Guide](https://github.com/Cloud-Tamil/GitHub-VS-Code-Complete-Setup-Guide) |
+| DevOps | [DevOps Learning Page](https://github.com/Cloud-Tamil/DevOps-Learning-Page) |
+| Developer setup | [GitHub & VS Code Setup Guide](https://github.com/Cloud-Tamil/GitHub-VS-Code-Complete-Setup-Guide) |
 
-## Engineering Principles
+## How I work
 
-- **Automate the repeatable:** prefer versioned scripts, pipelines, and infrastructure as code over manual drift.
-- **Design for operations:** include health checks, logs, metrics, alerts, and actionable troubleshooting.
-- **Make changes reviewable:** inspect code diffs, Terraform plans, and deployment changes before applying them.
-- **Build with security in mind:** avoid committing secrets, use least privilege, and separate configuration from credentials.
-- **Document the path:** keep prerequisites, architecture, commands, and recovery steps reproducible.
+- **Automate first:** make recurring infrastructure and delivery tasks repeatable.
+- **Design for operability:** consider health checks, logs, metrics, alerting, and troubleshooting.
+- **Review changes:** use version control and inspect infrastructure plans before applying changes.
+- **Keep security in mind:** use least privilege and never commit credentials or secrets.
+- **Document for reuse:** capture setup steps, prerequisites, and useful lessons learned.
 
-## GitHub Snapshot
+## GitHub activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cloud-Tamil&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud-Tamil&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
+<a href="https://github.com/Cloud-Tamil">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cloud-Tamil&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/Cloud-Tamil">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud-Tamil&layout=compact&hide_border=true&theme=transparent" alt="Most-used languages" />
+</a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Cloud-Tamil&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=Cloud-Tamil&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 
 </div>
 
-<sub>Statistics and streak cards are served by third-party services and may be unavailable or rate-limited. They are not official GitHub metrics.</sub>
+<sub>Activity cards are provided by third-party services and may occasionally be unavailable or rate-limited.</sub>
 
 ---
 
@@ -143,10 +127,8 @@ Terraform learning and provisioning examples for building repeatable, reviewable
 
 ### Let's connect
 
-Open to sharing ideas about cloud platforms, DevOps automation, Kubernetes, CI/CD, and observability.
+Interested in cloud infrastructure, DevOps automation, Kubernetes, CI/CD, and observability.
 
-[LinkedIn](https://www.linkedin.com/in/tamil8413/) · [Explore my repositories](https://github.com/Cloud-Tamil?tab=repositories)
-
-<sub>Built with Markdown, SVG, and a cloud-native mindset.</sub>
+<a href="https://www.linkedin.com/in/tamil8413/">LinkedIn</a> · <a href="https://github.com/Cloud-Tamil?tab=repositories">Explore all repositories</a>
 
 </div>
